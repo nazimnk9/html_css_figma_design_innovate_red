@@ -1,0 +1,414 @@
+@media (max-width: 575.99px){
+    .common_btn {
+        padding: 8px 22px;
+        font-size: 14px;
+    }
+    .peragraph {
+        font-size: 16px;
+        line-height: 140%;
+    }
+    /* ==================Navbar start=============== */
+    nav{
+        padding: 10px 0;
+    }
+    .container{
+        width: 100%;
+        padding: 0 10px;
+    }
+    .nav_logo img{
+        width: 75%;
+    }
+    .menu, .nav_btn{
+        display: none;
+    }
+    .bars i{
+        color: black;
+        cursor: pointer;
+    }
+    /* ==================Navbar end=============== */
+    /* ==================banner start=============== */
+    #banner {
+        padding: 160px 0 140px 0;
+    }
+    .banner_content h1 {
+        font-size: 26px;
+        width: auto;
+    }
+    .banner_content p{
+        font-size: 16px;
+        line-height: 140%;
+        width: auto;
+        padding-top: 24px;
+    }
+    .shape_1, .round_1, .round_2, .shape_5, .shape_4, .close_shape_2, .shape_3, .shape_6, .banner_round_2, .close_shape_1, .close_shape_3, .banner_round_1 {
+        display: none;
+    }
+    .shape_2 {
+        right: -65px;
+    }
+    .banner_btn {
+        margin-top: 35px;
+    }
+    /* ==================banner end=============== */
+    /* ==================Service start=============== */
+    #service {
+        margin-top: 60px;
+    }
+    .service_wrapper {
+        gap: 20px;
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+    .service_item {
+        width: 100%;
+        padding: 25px 30px;
+    }
+    .service_item img{
+        width: 60px;
+    }
+    .shape_7 {
+        display: none;
+    }
+    .service_item h3 {
+        font-size: 20px;
+        line-height: 140%;
+        padding-top: 16px;
+    }
+    /* ==================Service end=============== */
+}
+
+@media (min-width: 576px) and (max-width: 767.99px){
+    .common_btn {
+        padding: 8px 22px;
+        font-size: 14px;
+    }
+    .peragraph {
+        font-size: 16px;
+        line-height: 140%;
+    }
+    /* ==================Navbar start=============== */
+    nav{
+        padding: 20px 0;
+    }
+    .container{
+        width: 100%;
+        padding: 0 25px;
+    }
+    .nav_logo img{
+        width: 100%;
+    }
+    .menu, .nav_btn{
+        display: none;
+    }
+    .bars i{
+        color: black;
+        cursor: pointer;
+    }
+    /* ==================Navbar end=============== */
+    /* ==================banner start=============== */
+    #banner {
+        padding: 160px 0 140px 0;
+    }
+    .banner_content h1 {
+        font-size: 40px;
+        width: auto;
+        padding: 0 50px;
+    }
+    .banner_content p{
+        font-size: 16px;
+        line-height: 140%;
+        width: auto;
+        padding: 24px 60px 0 60px;
+    }
+    .shape_1, .round_1, .round_2, .shape_5, .shape_4, .close_shape_2, .shape_3, .shape_6, .banner_round_2, .close_shape_1, .close_shape_3, .banner_round_1 {
+        display: none;
+    }
+    .shape_2 {
+        right: -65px;
+    }
+    .banner_btn {
+        margin-top: 35px;
+    }
+    /* ==================banner end=============== */
+    /* ==================Service start=============== */
+    #service {
+        margin-top: 60px;
+    }
+    .service_wrapper {
+        gap: 25px;
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+    .service_item {
+        width: 100%;
+        padding: 35px 30px;
+    }
+    .service_item img{
+        width: 60px;
+    }
+    .shape_7 {
+        display: none;
+    }
+    .service_item h3 {
+        font-size: 26px;
+        line-height: 140%;
+        padding-top: 16px;
+    }
+    /* ==================Service end=============== */
+}
+
+@media (min-width: 768px) and (max-width: 991.99px){
+    .common_btn {
+        padding: 10px 30px;
+        font-size: 16px;
+    }
+    .peragraph {
+        font-size: 20px;
+        line-height: 150%;
+    }
+    /* ==================Navbar start=============== */
+    nav{
+        padding: 20px 0;
+    }
+    .container{
+        width: 100%;
+        padding: 0 25px;
+    }
+    .nav_logo img{
+        width: 100%;
+    }
+    .menu, .nav_btn{
+        display: none;
+    }
+    .bars i{
+        color: black;
+        cursor: pointer;
+    }
+    /* ==================Navbar end=============== */
+    /* ==================banner start=============== */
+    #banner {
+        padding: 180px 0 150px 0;
+    }
+    .banner_content h1 {
+        font-size: 55px;
+        padding: 0 88px;
+    }
+    .banner_content p {
+        font-size: 30px;
+        line-height: 150%;
+        padding: 24px 88px 0 88px;
+    }
+    .shape_1, .round_1, .round_2, .shape_5, .shape_4, .close_shape_2, .shape_3, .shape_6, .banner_round_2, .close_shape_1, .close_shape_3, .banner_round_1 {
+        display: none;
+    }
+    .shape_2 {
+        right: -65px;
+    }
+    .banner_btn {
+        margin-top: 35px;
+    }
+    /* ==================banner end=============== */
+    /* ==================Service start=============== */
+    #service {
+        margin-top: 70px;
+    }
+    .service_wrapper {
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .service_item {
+        width: 440px;
+        padding: 40px 35px;
+    }
+    .service_item img {
+        width: 65px;
+    }
+    .shape_7 {
+        display: none;
+    }
+    .service_item h3 {
+        font-size: 30px;
+        line-height: 150%;
+        padding-top: 20px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.99px){
+    .common_btn {
+        padding: 13px 35px;
+        font-size: 18px;
+    }
+    .peragraph {
+        font-size: 20px;
+        line-height: 150%;
+    }
+    /* ==================Navbar start=============== */
+    nav{
+        padding: 20px 0;
+    }
+    .container {
+        width: 100%;
+        padding: 15px 35px;
+    }
+    .nav_logo img{
+        width: 100%;
+    }
+    .menu > ul {
+        column-gap: 35px;
+    }
+    .menu, .nav_btn{
+        display: block;
+    }
+    .dropdown {
+        width: 140px;
+        top: 10px;
+        padding: 8px;
+        row-gap: 6px;
+    }
+    .bars{
+        display: none;
+    }
+    /* ==================Navbar end=============== */
+    /* ==================banner start=============== */
+    #banner {
+        padding: 258px 0 150px 0;
+    }
+    .banner_content h1 {
+        font-size: 50px;
+        padding: 0 60px;
+    }
+    .banner_content p {
+        font-size: 26px;
+        line-height: 145%;
+        padding: 24px 65px 0 65px;
+    }
+    .shape_1, .round_1, .round_2, .shape_5, .shape_4, .close_shape_2, .shape_3, .shape_6, .banner_round_2, .close_shape_1, .close_shape_3, .banner_round_1 {
+        display: none;
+    }
+    .shape_2 {
+        right: -65px;
+    }
+    .banner_btn {
+        margin-top: 40px;
+    }
+    /* ==================banner end=============== */
+    /* ==================Service start=============== */
+    #service {
+        margin-top: 75px;
+    }
+    .service_wrapper {
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .service_item {
+        width: 445px;
+        padding: 43px 37px;
+    }
+    .service_item img {
+        width: 75px;
+    }
+    .shape_7 {
+        display: none;
+    }
+    .service_item h3 {
+        font-size: 37px;
+        line-height: 160%;
+        padding-top: 25px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1599.99px){
+    .common_btn {
+        padding: 14px 28px;
+        font-size: 18px;
+    }
+    .peragraph {
+        font-size: 18px;
+        line-height: 200%;
+    }
+    /* ==================Navbar start=============== */
+    nav{
+        padding: 20px 0;
+    }
+    .container {
+        width: 100%;
+        padding: 15px 35px;
+    }
+    .nav_logo img {
+        width: 115%;
+    }
+    .menu > ul {
+        column-gap: 62px;
+    }
+    .menu, .nav_btn{
+        display: block;
+    }
+    .dropdown {
+        width: 140px;
+        top: 10px;
+        padding: 8px;
+        row-gap: 6px;
+    }
+    .bars{
+        display: none;
+    }
+    /* ==================Navbar end=============== */
+    /* ==================banner start=============== */
+    #banner {
+        padding: 258px 0 150px 0;
+    }
+    .banner_content h1 {
+        font-size: 64px;
+        /* padding: 0 60px; */
+    }
+    .banner_content p {
+        font-size: 18px;
+        line-height: 200%;
+        padding: 24px;
+    }
+    .shape_1, .round_1, .round_2, .shape_5, .shape_4, .close_shape_2, .shape_3, .shape_6, .banner_round_2, .close_shape_1, .close_shape_3, .banner_round_1 {
+        display: none;
+    }
+    .shape_2 {
+        right: -65px;
+    }
+    .banner_btn {
+        margin-top: 40px;
+    }
+    /* ==================banner end=============== */
+    /* ==================Service start=============== */
+    #service {
+        margin-top: 75px;
+    }
+    .service_wrapper {
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .service_item {
+        width: 450px;
+        padding: 40px 30px;
+    }
+    .service_item img {
+        width: 75px;
+    }
+    .shape_7 {
+        display: none;
+    }
+    .service_item h3 {
+        font-size: 28px;
+        line-height: 160%;
+        padding-top: 34px;
+    }
+}
+
+@media (min-width: 1600px){
+    .bars{
+        display: none;
+    }
+    .nav_logo {
+        padding: 0 80px;
+    }
+}
